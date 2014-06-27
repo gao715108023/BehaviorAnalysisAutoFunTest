@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="poi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/poi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.22-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/commons-logging-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
